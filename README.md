@@ -77,7 +77,7 @@ weather-app/
 ## API Used 🌐
 
 - **Weather API**: Provides real-time weather data.  
-  [OpenWeatherMap API](https://openweathermap.org/api) 
+  [OpenWeatherMap API](https://www.weatherapi.com/docs/) 
 
 ---
 
