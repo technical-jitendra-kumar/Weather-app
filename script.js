@@ -217,3 +217,22 @@ function news(){
   
   });
 }
+// ----------page up button ----------------
+// Show the button when the user scrolls down 100px
+window.onscroll = function() {
+  var button = document.getElementById("pageUpBtn");
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+    button.style.display = "block";
+  } else {
+    button.style.display = "none";
+  }
+};
+
+// Function to scroll to the top
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
+
