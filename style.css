@@ -363,7 +363,7 @@ nav{
 
 }
  /* --------------footer section---------------- */
- /* Footer Container */
+
 .footer-container {
   background: linear-gradient(135deg, #e0f2fe, #a7c7ff); /* Light gradient background */
   padding: 4rem 0;
@@ -371,7 +371,7 @@ nav{
   overflow: hidden;
 }
 
-/* Footer Content */
+
 .footer-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -381,7 +381,7 @@ nav{
   padding: 0 2rem;
 }
 
-/* Subscribe Section */
+
 .subscribe-section {
   max-width: 500px;
 }
@@ -428,7 +428,6 @@ nav{
   background-color: #4f46e5;
 }
 
-/* Footer Links */
 .footer-links {
   display: grid;
   grid-template-columns: 1fr 1fr;
