@@ -93,7 +93,7 @@ weather-app/
 ## Screenshots 📸
 
 ## HOME PAGE 
-![Home Page](img/Screenshot%202025-01-16%20231528.png)
+![Home Page](img/Screenshot%202025-01-19%20011510.png)
 
 ## MAP
 ![Map](img/Screenshot%202025-01-16%20231553.png)
